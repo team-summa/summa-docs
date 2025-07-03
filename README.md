@@ -6,10 +6,10 @@
 
 ## 📂 Projects
 
-- [여정(Journey)](./journey.md)  
+- [여정(Journey)](./projects/journey/journey.md)  
   여행 동행자를 찾고, 함께 추억을 쌓는 여행 커뮤니티 플랫폼
 
-- [스니피(Snippie)](./snippie.md)  
+- [스니피(Snippie)](./projects/snippie/snippie.md)  
   현재 개발중
 
 - [???] 플랫폼 <br>
