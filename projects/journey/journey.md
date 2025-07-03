@@ -6,7 +6,7 @@
 Team Summa가 참여했던 여정 프로젝트는 여행 동행자를 쉽고 안전하게 연결하고, <br>
 여행 관련 정보를 공유할 수 있는 웹 기반 커뮤니티 서비스입니다.  
 
-www.journeysite.site
+[www.journeysite.site](https://journeysite.site/)
 
 ## 👥 팀원 소개 및 담당 업무
 
