@@ -10,10 +10,8 @@
   여행 동행자를 찾고, 함께 추억을 쌓는 여행 커뮤니티 플랫폼
 
 - [스니피(Snippie)](./projects/snippie/snippie.md)  
-  현재 개발중
-
-- [???] 플랫폼 <br>
-  8월 중 개발 시작(기획 및 디자인 중)
+  - MVP 1차 개발완료 (2025.07)
+  - Snippie code review AI helper 서비스 구현 예정 (2025.09)
 
 ---
 
